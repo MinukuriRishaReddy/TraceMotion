@@ -11,6 +11,6 @@ TraceMotion is a real-time moving object detection system developed using Python
 - Easily extendable for tracking and alerts
 
 ## Requirements
-- Python 3.12.3
+- Python 3.13.2
 - OpenCV (`opencv-python`)
 - imutils 
